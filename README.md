@@ -2,6 +2,8 @@
 
 Welcome to the **Zomato Dashboard** project! This React application transforms Zomato's extensive data into visually appealing charts and graphs, providing an exceptional data visualization experience.
 
+![InShot_20240618_212337781-ezgif com-optimize](https://github.com/Shwetagupta2004/ZOMATO_Dashboard/assets/141017117/fdfb1744-eaf0-4e32-8bc4-1a94e97120d7)
+
 ## 🔍 Introduction
 
 The Zomato Dashboard is designed to make exploring and understanding Zomato's vast dataset easy and intuitive. Whether you are a data enthusiast, a developer looking for inspiration, or a business analyst seeking insights, this project offers a seamless experience to delve into various aspects of restaurant data. By leveraging React and Recharts, the dashboard provides interactive features, ensuring you stay engaged with insightful data about top locations, cuisines, ratings, and more.
@@ -74,10 +76,6 @@ Once running, explore the dashboard to gain insights into Zomato's data. Interac
 ## 🤝 Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request with your improvements, bug fixes, or suggestions.
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🧑‍💻 Author
 
